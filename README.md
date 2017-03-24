@@ -1,7 +1,7 @@
 # SQLcl Docker Build File
-# Decided to borrow what Kris Rice had and try to use the slim version of 
-# Oracle Linux 7
-# Docker image size reduced by about 100MB
+Decided to borrow what Kris Rice had and try to use the slim version of 
+Oracle Linux 7
+Docker image size reduced by about 100MB
 
 [![N|Solid](http://www.oracle.com/technetwork/developer-tools/sqlcl/sqlcl-32-2994764.png)](http://www.oracle.com/technetwork/developer-tools/sqlcl/index.html)
 
