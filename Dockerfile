@@ -1,4 +1,4 @@
-FROM oraclelinux:7-slim
+FROM oraclelinux:latest
 
 # ADD sqlcl-* .
 # RUN yum -y install wget unzip java-1.8.0-openjdk-devel \
